@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Lato&family=Montserrat:wght@400;500;700&family=Roboto:wght@100;300&display=swap');
+*{
+    box-sizing: border-box;
+}
+.coinHeading{
+    font-weight: bold;
+    margin-bottom: 20px;
+    font-family: 'Montserrat';
+}
+
+.coinDescription{
+    width: 100%;
+    font-family: 'Montserrat';
+    padding: 0 25px 15px 25px;
+    text-align: justify;
+}
